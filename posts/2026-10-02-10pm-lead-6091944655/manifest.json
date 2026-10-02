@@ -1,0 +1,91 @@
+{
+ "title": "A 10pm lead still needs an email",
+ "slides": [
+  {
+   "n": 1,
+   "type": "title",
+   "alt": "Real estate agents A 10pm lead still needs an email. The text can wait until morning."
+  },
+  {
+   "n": 2,
+   "type": "point",
+   "alt": "Email: 1. The email goes out right away It names the property and asks which day works to see it."
+  },
+  {
+   "n": 3,
+   "type": "point",
+   "alt": "Text: 2. Text only with the lead’s consent And only from 8am to 9pm in their own time."
+  },
+  {
+   "n": 4,
+   "type": "point",
+   "alt": "Text: 3. At 10pm the text waits It goes out at 8:00 the next morning."
+  },
+  {
+   "n": 5,
+   "type": "point",
+   "alt": "Text: 4. Reply STOP A text that is still waiting gets cancelled."
+  },
+  {
+   "n": 6,
+   "type": "point",
+   "alt": "Backup: 5. The backup agent still gets a 10pm ping If your team does not want night pings, that rule has to be added."
+  },
+  {
+   "n": 7,
+   "type": "cta",
+   "alt": "When a buyer writes after dinner What goes out tonight, and what waits until morning? Email now. The text can wait."
+  }
+ ],
+ "files": {
+  "carousel": [
+   "carousel/slide-01.png",
+   "carousel/slide-02.png",
+   "carousel/slide-03.png",
+   "carousel/slide-04.png",
+   "carousel/slide-05.png",
+   "carousel/slide-06.png",
+   "carousel/slide-07.png"
+  ],
+  "carousel_jpg": [
+   "carousel/slide-01.jpg",
+   "carousel/slide-02.jpg",
+   "carousel/slide-03.jpg",
+   "carousel/slide-04.jpg",
+   "carousel/slide-05.jpg",
+   "carousel/slide-06.jpg",
+   "carousel/slide-07.jpg"
+  ],
+  "vertical": [
+   "vertical/slide-01.png",
+   "vertical/slide-02.png",
+   "vertical/slide-03.png",
+   "vertical/slide-04.png",
+   "vertical/slide-05.png",
+   "vertical/slide-06.png",
+   "vertical/slide-07.png"
+  ],
+  "vertical_jpg": [
+   "vertical/slide-01.jpg",
+   "vertical/slide-02.jpg",
+   "vertical/slide-03.jpg",
+   "vertical/slide-04.jpg",
+   "vertical/slide-05.jpg",
+   "vertical/slide-06.jpg",
+   "vertical/slide-07.jpg"
+  ],
+  "pdf": "carousel.pdf",
+  "cover": "carousel-cover.jpg",
+  "contact_sheet": "contact-sheet.png"
+ },
+ "fit_warnings": [],
+ "numbers_checked_against_source": [
+  "10",
+  "8",
+  "9",
+  "10",
+  "8",
+  "00",
+  "10"
+ ]
+}
